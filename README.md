@@ -33,7 +33,7 @@ inits = [[-3, 1, 5], [-1, -3, 15], [2, -3, 3], [1.5, -3, 8]]
 phase_portrait_2D([Lx, Ly, "Phase Portrait Example 1"], dxdt, dydt, inits, fix_pts = [[0, 0], [-2, -1]])
 ```
 
-The result is given below:\
+Voila ! The result is given below:\
 ![Phase Portrait Example 1](/pp1.png)
 
 
