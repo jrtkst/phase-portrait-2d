@@ -35,3 +35,6 @@ phase_portrait_2D([Lx, Ly, "Phase Portrait Example 1"], dxdt, dydt, inits, fix_p
 
 The result is given below:\
 ![Phase Portrait Example 1](/pp1.png)
+
+
+You can also adjust the line width, trajectories color, number of arrows, etc. Go to town !
