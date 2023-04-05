@@ -51,7 +51,7 @@ def phase_portrait_2D(params, dxdt, dydt, inits,
         showing all quadrants if True
 
     traj_color : string, optional
-        The color of the trajectories. Default = 'red'
+        The color of the trajectories. Default = 'r'
     
 
     """
