@@ -37,4 +37,4 @@ Voila ! The result is given below:\
 ![Phase Portrait Example 1](/pp1.png)
 
 
-You can also adjust the line width, trajectories color, number of arrows, etc however you like. Go to town !
+You can also adjust the line width, trajectories color, number of arrows, etc however you like :)
